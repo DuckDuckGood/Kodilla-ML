@@ -1,5 +1,3 @@
-from pydoc import classname
-
 from faker import Faker
 
 class BaseContact:

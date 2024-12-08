@@ -11,7 +11,7 @@ products = [
     Product("hit", 122.32, 2200),
 ]
 
-line = "--------------------------------"
+line = "--------------------------------w"
 
 print("Raport z zakupów:")
 print(line)
